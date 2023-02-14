@@ -1,0 +1,15 @@
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/bin/Debug/net6.0/TASK2
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/bin/Debug/net6.0/TASK2.deps.json
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/bin/Debug/net6.0/TASK2.runtimeconfig.json
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/bin/Debug/net6.0/TASK2.dll
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/bin/Debug/net6.0/TASK2.pdb
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/obj/Debug/net6.0/TASK2.csproj.AssemblyReference.cache
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/obj/Debug/net6.0/TASK2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/obj/Debug/net6.0/TASK2.AssemblyInfoInputs.cache
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/obj/Debug/net6.0/TASK2.AssemblyInfo.cs
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/obj/Debug/net6.0/TASK2.csproj.CoreCompileInputs.cache
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/obj/Debug/net6.0/TASK2.dll
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/obj/Debug/net6.0/refint/TASK2.dll
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/obj/Debug/net6.0/TASK2.pdb
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/obj/Debug/net6.0/TASK2.genruntimeconfig.cache
+/Users/marinaartemyeva/Seminar_2_C_WorkGroup/TASK2/obj/Debug/net6.0/ref/TASK2.dll
